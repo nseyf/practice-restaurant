@@ -1,0 +1,115 @@
+/*Carousel img URLS:
+- https://static.pexels.com/photos/9708/food-pizza-restaurant-eating.jpg
+-https://static.pexels.com/photos/4939/bread-food-plate-toast.jpg
+- https://static.pexels.com/photos/5928/salad-healthy-diet-spinach.jpg
+-  https://static.pexels.com/photos/42326/noodles-pasta-spaghetti-farfalle-42326.jpeg
+*/
+body {
+  background: teal;
+}
+#main {
+  height: 100vh;
+  width: fixed;
+  margin-top: 50px;
+}
+#subheading {
+  margin-top: 5px;
+  font-size: 3em;
+  font-family: "Cormorant";
+  background: rgba(0, 0, 0, 0.3);
+  width: 60%;
+  margin: 0 auto;
+}
+
+#navList li {
+  display: inline;
+  list-style-type: none;
+font-size: 30px;
+  font-family: "Cookie";
+  color: white;
+ margin-right: 20px;
+  margin-left: 20px;
+  text-align: center;
+}
+
+
+h1 {
+color: white;
+  border-radius:10px;
+  background-color: rgba(0, 0, 0, 0.4); 
+text-align: center;
+  margin-top: 35vh;
+  font-family: "cookie";
+  font-size: 10em;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 5;
+}
+h2 {
+  margin-top: 150px;
+  text-align: center;
+  color: white;
+  font-family: 'cookie';
+  font-size: 70px;
+  margin-bottom: 100px;
+}
+h3 {
+  font-family: 'cookie';
+  font-size: 50px;
+  color: white;
+}
+
+.mainText {
+  text-align: justify;
+  font-family: "Cormorant";
+  font-size: 20px;
+  word-spacing: 0.5em;
+  color: white;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+span {
+  font-size: 30px;
+  font-family: "Cormorant";
+}
+a {
+  color: white;
+}
+#text {
+  text-align: center;
+}
+nav {
+  background-color: rgba(0, 0, 0, 0.5);
+z-index: 5;
+  width: 100%;
+  height: 50px;
+  position: fixed;
+}
+
+#map {
+  height: 400px;
+  margin-bottom: 100px;
+  
+}
+#contactInfo {
+  background: #333333;
+}
+
+.menus {
+  width: 100%;
+  display: inline;
+}
+.fa {
+  color: white;
+  padding: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.address {
+  font-family: "Cormorant";
+  color: white;
+  font-size: 20px;
+  margin-top: 15px;
+}
