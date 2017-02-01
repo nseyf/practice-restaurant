@@ -1,3 +1,3 @@
-# practice-restaurant
+# Restaurant Theme
 
-HTML/CSS practice.
+Built with HTML, CSS and Bootstrap. 
